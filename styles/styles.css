@@ -64,6 +64,7 @@ body {
     margin: 10px;
     display: flex;
     justify-content: center;
+    font-size: 80px;
 }
 
 .centrao {
@@ -94,4 +95,10 @@ body {
 .sidebar a img {
     width: 30px;
     height: 30px;
+}
+
+.margenzinha{
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
 }
