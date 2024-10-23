@@ -40,7 +40,7 @@ header {
     color: #555;
 }
 
-/* Barra lateral */
+
 .sidebar {
     position: absolute;
     top: 150px;
@@ -55,7 +55,7 @@ header {
     height: 30px;
 }
 
-/* Conteúdo Principal */
+
 .main-content {
     display: flex;
     justify-content: space-between;
@@ -95,7 +95,7 @@ header {
     background-color: #ff4500;
 }
 
-/* Seção da Imagem */
+
 .image-section {
     max-width: 300px;
 }
