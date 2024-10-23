@@ -82,10 +82,9 @@ body {
 
 
 .sidebar {
-    position: fixed;
-    top: 50%;
+    position: absolute; 
+    top: 280px; 
     left: 0;
-    transform: translateY(-50%);
     display: flex;
     flex-direction: column;
     gap: 20px;
